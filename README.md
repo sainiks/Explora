@@ -1,2 +1,2 @@
 # Explora
-This is for Exploring New 
+This is for Exploring New .
